@@ -13,4 +13,4 @@ at the following URLS:
 
 - [Math 087 Math Modeling](https://gmcninch.math.tufts.edu/2026-Sp-Math087)
 
-- [Math 146 Real Analysis II](https://gmcninch.math.tufts.edu/2026-Sp-Math136)
+- [Math 136 Real Analysis II](https://gmcninch.math.tufts.edu/2026-Sp-Math136)

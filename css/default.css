@@ -198,6 +198,25 @@ td.tags  {
     text-align: center;}
 
 
+.container {
+    display: flex;
+    flex-direction: row; 
+}
+
+.figure {
+//    display: flex;
+    flex: 1 1 200px;
+    flex-direction: column;
+    margin-right: 5rem; /* Add space between figures */
+    max-width: 150px;
+}
+
+figcaption {
+    display: flex;
+    flex-direction: column;
+    //max-width: 150px;
+}
+
 .image-container-1col {
     display: grid;
     grid-template-columns: 1fr;

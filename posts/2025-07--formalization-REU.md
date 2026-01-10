@@ -12,13 +12,20 @@ summary : |
 I supervised a summer REU project in the [VERSEIM
 REU](https://sites.tufts.edu/verseimreu/) at Tufts University. 
 
-::: {.image-container-1col}
-[![ref0]](/assets/images/2025-07-31--formalization-REU-01.jpg)
+::: {.container}
+
+![Tufts; July 2025][ref0]
+
+![JMM in D.C.; Jan 2026][ref1]
+
 :::
 
-[ref0]: /assets/images/2025-07-31--formalization-REU-01.jpg {.med-image}
 
-Participants: Clea Bergsman, Katherine Buesing, Sahan Wijetunga.
+
+
+[ref0]: /assets/images/2025-07-31--formalization-REU-01.jpg {.med-image}
+[ref1]: /assets/images/2026-01--JMM-poster-session.jpg {.med-image}
+
 
 The project aimed to learn about the use of the [Lean proof-assistant
 / programming language](https://leanprover-community.github.io/) in
