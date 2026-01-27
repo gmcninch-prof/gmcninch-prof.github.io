@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2025-10-28 16:59:23.775949194 EDT
+date: 2026-01-27 15:12:55.041440725 EST
 title: Manuscripts
 ---
 
