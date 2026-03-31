@@ -1,10 +1,14 @@
 ---
 author: George McNinch
-date: 2026-03-07 07:52:15.055959328 EST
+date: 2026-03-31 17:25:01.856407264 EDT
 title: Manuscripts
 ---
 
 # Manuscript summary
+
+   #. [Local-global principles for the existence of Levi factors (2026)](#local-global-principles-for-the-existence-of-levi-factors)
+      Preprint (2026).
+      With [David Harbater](https://www2.math.upenn.edu/~harbater/) (University of Pennsylvania) and [Julia Hartmann](https://www2.math.upenn.edu/~hartmann/) (University of Pennsylvania).
 
    #. [Levi decompositions of linear algebraic groups and non-abelian cohomology (2024)](#levi-decompositions-of-linear-algebraic-groups-and-non-abelian-cohomology)
       To appear in: Pacific J. Math (Special issue in memory of Gary Seitz) (date accepted: 2024).
@@ -98,6 +102,20 @@ title: Manuscripts
 
 
 # Manuscript details
+
+## Local-global principles for the existence of Levi factors {#local-global-principles-for-the-existence-of-levi-factors}
+   **Citation:** Preprint (2026).
+   
+   
+   With [David Harbater](https://www2.math.upenn.edu/~harbater/) (University of Pennsylvania) and [Julia Hartmann](https://www2.math.upenn.edu/~hartmann/) (University of Pennsylvania).
+   
+   
+   URLs: [[PDF]](/assets/manuscripts/.pdf) and [[arXiv]](http://arxiv.org/abs/2603.26501).
+   
+   **Abstract:**
+   We discuss local-global principles for the existence of Levi factors (i.e., complements to the unipotent radical) for linear algebraic groups over one-variable function fields. We give examples of disconnected groups that fail the local-global principle, and prove a strong local-global principle in the presence of Levi descent. 
+   
+   --------
 
 ## Levi decompositions of linear algebraic groups and non-abelian cohomology {#levi-decompositions-of-linear-algebraic-groups-and-non-abelian-cohomology}
    **Citation:** To appear in: Pacific J. Math (Special issue in memory of Gary Seitz) (date accepted: 2024).
