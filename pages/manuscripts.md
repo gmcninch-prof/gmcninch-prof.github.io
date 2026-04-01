@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2026-03-31 17:25:01.856407264 EDT
+date: 2026-03-31 21:51:48.050422442 EDT
 title: Manuscripts
 ---
 
@@ -181,6 +181,7 @@ title: Manuscripts
    **Citation:** Transformation Groups 25 (2020), no. 1, pp. 217-249.
    
    
+   [Errata](/assets/manuscripts/errata/2025-10-12--reductive-subgroups-fix.pdf)
    
    
    URLs: [[PDF]](/assets/manuscripts/reductive-subgroups-of-a-parahoric-group-scheme.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR4070108), [[DOI]](http://dx.doi.org/10.1007/s00031-018-9508-3) and [[Journal]](https://rdcu.be/bb6vn).
