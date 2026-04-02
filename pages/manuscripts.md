@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2026-03-31 21:51:48.050422442 EDT
+date: 2026-04-01 21:53:15.378965535 EDT
 title: Manuscripts
 ---
 
@@ -110,7 +110,7 @@ title: Manuscripts
    With [David Harbater](https://www2.math.upenn.edu/~harbater/) (University of Pennsylvania) and [Julia Hartmann](https://www2.math.upenn.edu/~hartmann/) (University of Pennsylvania).
    
    
-   URLs: [[PDF]](/assets/manuscripts/.pdf) and [[arXiv]](http://arxiv.org/abs/2603.26501).
+   URLs: [[arXiv]](http://arxiv.org/abs/2603.26501).
    
    **Abstract:**
    We discuss local-global principles for the existence of Levi factors (i.e., complements to the unipotent radical) for linear algebraic groups over one-variable function fields. We give examples of disconnected groups that fail the local-global principle, and prove a strong local-global principle in the presence of Levi descent. 
