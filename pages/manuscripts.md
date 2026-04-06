@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2026-04-01 21:53:15.378965535 EDT
+date: 2026-04-06 17:05:37.446260163 EDT
 title: Manuscripts
 ---
 
@@ -11,7 +11,7 @@ title: Manuscripts
       With [David Harbater](https://www2.math.upenn.edu/~harbater/) (University of Pennsylvania) and [Julia Hartmann](https://www2.math.upenn.edu/~hartmann/) (University of Pennsylvania).
 
    #. [Levi decompositions of linear algebraic groups and non-abelian cohomology (2024)](#levi-decompositions-of-linear-algebraic-groups-and-non-abelian-cohomology)
-      To appear in: Pacific J. Math (Special issue in memory of Gary Seitz) (date accepted: 2024).
+      Pacific J. Math (Special issue in memory of Gary Seitz) 336 (2024), no. 1-2, pp. 379-397.
 
    #. [Nilpotent elements and reductive subgroups over a local field (2021)](#nilpotent-elements-and-reductive-subgroups-over-a-local-field)
       Algebras and Representation Theory 24 (2021), pp. 1479-1522.
@@ -118,7 +118,7 @@ title: Manuscripts
    --------
 
 ## Levi decompositions of linear algebraic groups and non-abelian cohomology {#levi-decompositions-of-linear-algebraic-groups-and-non-abelian-cohomology}
-   **Citation:** To appear in: Pacific J. Math (Special issue in memory of Gary Seitz) (date accepted: 2024).
+   **Citation:** Pacific J. Math (Special issue in memory of Gary Seitz) 336 (2024), no. 1-2, pp. 379-397.
    
    
    
