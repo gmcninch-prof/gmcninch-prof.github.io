@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title> Tools for courses and CV </title>
+	<script>
+	  window.MathJax = {
+	    options: {
+	      ignoreHtmlClass: 'tex2jax_ignore',
+	      processHtmlClass: 'tex2jax_process'
+	    },
+	    tex: {
+	      autoload: {
+		color: [],
+		colorv2: ['color']
+	      },
+	      packages: {'[+]': ['noerrors']}
+	    },
+	    loader: {
+	      load: ['input/asciimath', '[tex]/noerrors']
+	    }
+	  };
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+        <link rel="stylesheet" href="../css/default.css" />
+	<link rel="stylesheet" href="../css/syntax.css" />	
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" type="text/css" rel="stylesheet" media="screen" />
+
+	<link href="https://use.fontawesome.com/releases/v6.7.2/css/fontawesome.css" rel="stylesheet" />
+	<link href="https://use.fontawesome.com/releases/v6.7.2/css/solid.css" rel="stylesheet" />
+	<link href="https://use.fontawesome.com/releases/v6.7.2/css/brands.css" rel="stylesheet" />
+
+    </head>
+    <body>
+        <header>
+            <div class="logo">
+              <a href="../">
+		<i class="fas fa-chalkboard-teacher" style="foreground=red"></i>
+		George McNinch
+	      </a>
+            </div>
+            <nav>
+              <a href="../pages/about.html">
+		<i class="fas fa-user"></i>		
+		About
+	      </a>
+              <a href="../assets/curriculum-vita-short.pdf">
+		<i class="fas fa-address-card"></i>
+		CV
+	      </a>
+              <a href="../pages/manuscripts.html">
+		<i class="fas fa-book-reader"></i>
+		Manuscripts
+	      </a>				
+              <a href="../archive.html">
+		<i class="fas fa-file"></i>		
+		Archive
+	      </a>
+            </nav>
+        </header>
+
+        <main role="main">
+            <h1>Tools for courses and CV</h1>
+            <article>
+    <section class="header">
+        Posted on 2026-05-01
+        
+    </section>
+    <div class="header">
+    
+       Tags: <a title="All pages tagged 'computing'." href="../tags/computing.html" rel="tag">computing</a>, <a title="All pages tagged 'lean'." href="../tags/lean.html" rel="tag">lean</a>
+    
+    </div>    
+    <section>
+        <p>I have a recent interest in formalizing mathematics in <code>Lean4</code>. But I
+thought it would be useful to try to do relatively ordinary computer
+programming tasks in <code>Lean</code>, as a learning experience. (I should point
+out that I come to this already as a bit of functional programming fan.)</p>
+<h1 id="mlml">MLML</h1>
+<p>So: I built a small tokenizer-parser-decoder configuration language
+that I called <a href="https://github.com/gmcninch-prof/mlml"><code>MLML</code></a>. (I used
+to use <code>dhall</code> for tasks like this, but don’t need all its features
+and thought it would be educational and interesting to write my own.)</p>
+<p>The
+<a href="https://github.com/gmcninch-prof/mlml/blob/main/README.md">README</a> at
+the repository has a bit of an overview of the specifications.</p>
+<h1 id="course-planner">course-planner</h1>
+<p>One frequent task when teaching is to produce semester schedule(s)
+for aspects of a course.</p>
+<p>I used the <code>MLML</code> configuration language to provide course-planning
+tools for this requirement: see the repository here:
+<a href="https://github.com/gmcninch-prof/course-planner">course-planner</a></p>
+<p>This tool uses an <code>MLML</code> <code>semester specification</code> – see e.g. <a href="https://github.com/gmcninch-prof/course-planner/blob/main/Test/semester-specs/AY2025-2026.mlml">this
+example</a> –
+together with an <code>MLML course specification</code> – see e.g. <a href="https://github.com/gmcninch-prof/course-planner/blob/main/Test/math136-spring26.mlml">this
+example</a>
+– to produce <code>markdown</code> descriptions of the schedule – see e.g.
+<a href="https://github.com/gmcninch-prof/course-planner/blob/main/Test/lectures.md">the lecture schedule for this
+sample class</a>
+and the <a href="https://github.com/gmcninch-prof/course-planner/blob/main/Test/Math136--AY2025-2026--Spring.org">org-mode schedule info for this sample class</a>.</p>
+<h1 id="publications">publications</h1>
+<p>I wrote a tool to use <code>MLML</code> to keep track of publication information,
+as well; see the repository here:
+<a href="https://github.com/gmcninch-prof/pubs">pubs</a></p>
+<p>Using an <code>MLML</code> specification, this tool actually produces
+the publication-list <a href="../assets/curriculum-vita-short.pdf">part of my CV</a>
+and the <a href="../pages/manuscripts.html">publication-list part of this web-site</a>.</p>
+<p>Here is an example of an <a href="https://github.com/gmcninch-prof/pubs/blob/main/Test/test.mlml"><code>MLML</code> specification of a few
+manuscripts</a>.</p>
+<p>And here are the two forms of output from this data:</p>
+<ul>
+<li><a href="https://github.com/gmcninch-prof/pubs/blob/main/Test/manuscripts.md">manuscript details</a></li>
+<li><a href="https://github.com/gmcninch-prof/pubs/blob/main/Test/manuscripts.md">cv style output</a></li>
+</ul>
+    </section>
+</article>
+
+        </main>
+
+    </body>
+    <footer>
+      <nav>
+	<a href="http://math.tufts.edu">
+	  <i class="fas fa-chalkboard"></i>
+	  Tufts Math
+	</a>
+	<a href="https://gmcninch.gitlab.io/" title="Personal page">
+	  <i class="fa-solid fa-pen-nib"></i>
+	</a>
+	<a href="https://mathoverflow.net/users/4653/george-mcninch" title="math overflow">
+	  <i class="fab fa-stack-overflow"></i>
+	</a>
+	<a href="https://mathstodon.xyz/@stencilv" rel="me" title="mastodon">
+	  <i class="fab fa-mastodon"></i>
+	</a>	
+	<a href="https://gitlab.com/gmcninch" title="gitlab">
+	  <i class="fab fa-gitlab"></i>	  
+	</a>
+	<a href="https://github.com/gmcninch" title="github">
+	  <i class="fab fa-github"></i>	  
+	</a>		
+      </nav>      
+    </footer>    
+</html>
