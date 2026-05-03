@@ -118,6 +118,33 @@ manuscripts</a>.</p>
 <li><a href="https://github.com/gmcninch-prof/pubs/blob/main/Test/manuscripts.md">manuscript details</a></li>
 <li><a href="https://github.com/gmcninch-prof/pubs/blob/main/Test/cv-manuscripts.md">cv style output</a></li>
 </ul>
+<h1 id="grade-keeper">grade-keeper</h1>
+<p>While I’m at it, I should also mention this tool, though it is not
+written in <code>Lean</code> nor does it use <code>MLML</code>. It is written in <code>Idris2</code>.</p>
+<p>It produced (markdown) reports of grade for my class. From the README
+of the <a href="https://github.com/gmcninch-prof/gradekeeper">gradekeeper
+repo</a>:</p>
+<blockquote>
+<p>A grade computation and reporting pipeline for university courses. The core
+engine is an <a href="https://idris-lang.org">Idris 2</a> program that reads a course
+specification and student score data, computes final grades, and produces a
+Markdown report. Supporting <a href="https://www.gnu.org/software/guile/">Guile Scheme</a>
+scripts and a <code>Makefile</code> handle data wrangling and glue the pipeline together.</p>
+<h2 id="overview">Overview</h2>
+<p>The pipeline takes three inputs for a given course:</p>
+<ol type="1">
+<li>A <strong>course specification</strong> (<code>.scm</code> s-expression file) describing score
+items, grade formulas, grade cutoffs, and any per-student exceptions.</li>
+<li>A <strong>Canvas grade export</strong> (CSV) downloaded from the Canvas LMS.</li>
+<li>A <strong>SIS enrollment export</strong> (<code>.xlsx</code>) from the university’s student
+information system.</li>
+</ol>
+<p>It produces:</p>
+<ul>
+<li>A Markdown grade report (<code>&lt;course&gt;--&lt;term&gt;--grade-report.md</code>)</li>
+<li>HTML and PDF renderings of that report (via <a href="https://pandoc.org">pandoc</a>)</li>
+</ul>
+</blockquote>
     </section>
 </article>
 
