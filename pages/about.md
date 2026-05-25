@@ -37,6 +37,13 @@ author: George McNinch
 
 # Recent teaching info
 
+- Spring 2026
+  - Math 087 - Mathematical Modeling
+  - Math 136 - Real Analysis II
+
+- Fall 2025
+  - Math 245 - Graduate Algebra
+
 - Spring 2025
   - Math 146 - Algebra II
   - Math 87 - Mathematical Modeling
@@ -57,19 +64,11 @@ author: George McNinch
 > structure and representations of [reductive] [linear algebraic
 > groups].
 
-> McNinch has been an invited speaker at:
+> More recently, he has developed an interest in the formalization of
+> mathematics using the [Lean4][Lean4] proof assistant and its
+> mathematical library [Mathlib][Mathlib], with an eye toward
+> formalizing results in algebra and representation theory.
 
-> + a workshop on [Algebraic Groups, Lie Algebras and their
->   Representations] held in November 2018 at the [Max Planck
->   Institute] (Bonn, Germany) in celebration of the 70th birthday of
->   [Jens Carsten Jantzen].
-> 
-> + a workshop [Groupes algébriques et géométrisation du programme de
->   Langlands] at the École Normale Superieure, Lyon (France) in
->   May 2018.
-> 
-> + a [Workshop on Pseudo-Reductive Groups] at Newcastle University
->   (UK) in September 2017.
 :::
 
 
@@ -79,15 +78,6 @@ author: George McNinch
 [Tufts University]: http://www.tufts.edu
 [reductive]: https://en.wikipedia.org/wiki/Reductive_group
 [linear algebraic groups]: https://en.wikipedia.org/wiki/Linear_algebraic_group
-
-[Algebraic Groups, Lie Algebras and their Representations]:
-   https://www.mpim-bonn.mpg.de/node/8209
-[Max Planck Institute]: https://www.mpim-bonn.mpg.de
-[Jens Carsten Jantzen]: https://wikipedia.org/wiki/Jens_Carsten_Jantzen
-[Groupes algébriques et géométrisation du programme de Langlands]:
-   https://geolang.sciencesconf.org/resource/page/id/1
-
-[Workshop on Pseudo-Reductive Groups]: https://sites.google.com/view/prgs-newcastle/home
 
 [Curriculum Vita]: /assets/curriculum-vita-short.pdf
 
