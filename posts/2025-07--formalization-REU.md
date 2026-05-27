@@ -40,13 +40,13 @@ how mathlib describes itself:
 > tactics that use the former and allow to develop the latter.
 
 The group's work can be found in the [project's
-github repository](https://github.com/gmcninch-tufts/VERSEIM-2025).
+github repository](https://github.com/gmcninch-prof/VERSEIM-2025).
 
 
 Here I'm going to give examples of results formalized by the students
 during the summer program; (the actual proof(s) are elided here --
 that is what the statement `sorry` is all about -- but can be found
-in the [repo](https://github.com/gmcninch-tufts/VERSEIM-2025)).
+in the [repo](https://github.com/gmcninch-prof/VERSEIM-2025)).
 
 > **Update**: I've created another version of the remainder of this
 > post, which exploits verso to format the code in a nicer
@@ -160,4 +160,4 @@ notation:100 lhs:100 "≃[" field:100 "," lhb:100 ","
   ```
   
   A formalized proof can be found in [the repository,
-  here](https://github.com/gmcninch-tufts/VERSEIM-2025/tree/main/VERSEIM2025/Forms/RationalFunctionFields).
+  here](https://github.com/gmcninch-prof/VERSEIM-2025/tree/main/VERSEIM2025/Forms/RationalFunctionFields).
