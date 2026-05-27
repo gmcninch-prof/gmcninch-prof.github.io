@@ -50,7 +50,7 @@ in the [repo](https://github.com/gmcninch-tufts/VERSEIM-2025)).
 
 > **Update**: I've created another version of the remainder of this
 > post, which exploits verso to format the code in a nicer
-> manner. [Find it here](https://gmcninch.math.tufts.edu/proof-sketches/proofs/2025-7-31-summer-2025-reu-on-formalization).
+> manner. [Find it here](https://gmcninch.math.tufts.edu/proof-sketches/posts/2025-7-31-summer-2025-reu-on-formalization/).
 
 We spent much of the time formalizing statements in *linear algebra*,
 for example in the following setting:
