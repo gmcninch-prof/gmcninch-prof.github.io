@@ -298,7 +298,7 @@ When $G$ is simple and adjoint, the previous work of the second author makes our
 
 
 **Citation**: Pacific Journal of Mathematics 204 (2002), no. 2, pp. 459--472.  
-**Links**: [[PDF]](https://gmcninch.math.tufts.edu/assets/manuscripts//the-second-cohomology-of-small-modules.pdf), [[DOI]](http://dx.doi.org/10.2140/pjm.2002.204.459), [[arXiv]](http://arxiv.org/abs/math.RT/0006105), [[MathReview]](http://www.ams.org/mathscinet-getitem?mr=MR1907901), [[BibTeX]](https://gmcninch.math.tufts.edu/assets/manuscripts/bibtex//mcninch02:MR1907901.bib), [[**Errata**]](https://gmcninch.math.tufts.edu/assets/manuscripts/errata//Errata---second-cohomology.pdf)  
+**Links**: [[PDF]](https://gmcninch.math.tufts.edu/assets/manuscripts//the-second-cohomology-of-small-modules.pdf), [[DOI]](http://dx.doi.org/10.2140/pjm.2002.204.459), [[arXiv]](http://arxiv.org/abs/math.RT/0006105), [[MathReview]](http://www.ams.org/mathscinet-getitem?mr=MR1907901), [[BibTeX]](https://gmcninch.math.tufts.edu/assets/manuscripts/bibtex//mcninch02:MR1907901.bib), [[**Errata**]](https://gmcninch.math.tufts.edu/assets/manuscripts/errata//errata---second-cohomology.pdf)  
 
 **Abstract**: Let $G$ be a connected, simply connected, quasisimple algebraic group over an algebraically closed field of characteristic $p>0$, and let $V$ be a rational $G$-module such that $\dim V ≤ p$.  According to a result of Jantzen, $V$ is completely reducible, and $H^1(G,V)=0$.  In this paper we show that $H^2(G,V) = 0$ unless some composition factor of $V$ is a non-trivial Frobenius twist of the adjoint representation of $G$.
 
