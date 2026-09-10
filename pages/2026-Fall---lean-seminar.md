@@ -10,9 +10,9 @@ summary: Seminar for Tufts math faculty and graduate students to learn about for
 This semester (Fall 2026), we'll run a seminar on **Formalization of math and Lean**
 in the math department here at Tufts University.  
 
-Schedule: weekly, Tuesday 3:30 - 4:20. Meeting in JCC 302.  
+Schedule: meets weekly in JCC 302, Tuesday 3:30 - 4:20.  
 
-The first meeting will be 2026-09-15.
+The first meeting will be 2026-09-15.  
 
 The [Lean prover community
 website](https://leanprover-community.github.io/) has lots of Lean
