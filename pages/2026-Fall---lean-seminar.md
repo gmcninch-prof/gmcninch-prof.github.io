@@ -7,7 +7,7 @@ tags:
 summary: Seminar for Tufts math faculty and graduate students to learn about formalization and the Lean proof assistant.
 ---
 
-This semester (Fall 2026), we'll run a seminar on `Formalization of math and Lean`
+This semester (Fall 2026), we'll run a seminar on **Formalization of math and Lean**
 in the math department here at Tufts University.  
 
 Schedule: weekly, Tuesday 3:30 - 4:20. Meeting in JCC 302.  
