@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "deploying prof-site"
-cd /home/george/Web-hakyll/prof/
+cd /home/george/websites/prof/
 read -p "Commit message: " msg
 git add .
 git commit -m "$msg"

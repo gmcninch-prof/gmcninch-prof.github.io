@@ -139,10 +139,10 @@ postCtxWithTags tags = tagsField "tags" tags `mappend` postCtx
 
 config :: Configuration
 config = defaultConfiguration
-  { destinationDirectory = "/home/george/Web-hakyll/prof/docs"
-  , providerDirectory    = "/home/george/Web-hakyll/prof"
-  , storeDirectory       = "/home/george/Web-hakyll/prof/_cache"
-  , tmpDirectory         = "/home/george/Web-hakyll/prof/_cache/tmp"  
+  { destinationDirectory = "/home/george/websites/prof/docs"
+  , providerDirectory    = "/home/george/websites/prof"
+  , storeDirectory       = "/home/george/websites/prof/_cache"
+  , tmpDirectory         = "/home/george/websites/prof/_cache/tmp"
   , previewPort          = 9090
-  , deployCommand        = "bash /home/george/Web-hakyll/prof/deploy-prof.sh"
+  , deployCommand        = "bash /home/george/websites/prof/deploy-prof.sh"
   }
