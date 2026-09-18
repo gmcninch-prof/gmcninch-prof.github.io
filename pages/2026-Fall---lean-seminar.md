@@ -45,6 +45,11 @@ Two particularly useful "book-references" are
 - [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
 - [Theorem Proving in Lean](https://lean-lang.org/theorem_proving_in_lean4/)
 
-A good starting point for lean is the [natural numbers game](https://adam.math.hhu.de/#/g/leanprover-community/nng4).
+- A good starting point for lean is the [natural numbers game](https://adam.math.hhu.de/#/g/leanprover-community/nng4).
+
+- Here are some materials from Tufts graduate student Xiao Tan about
+  [programming and software verification in
+  Lean](https://fduxiao.github.io/LeanFoundations/lean_modules/LeanFoundations.html).
+
 
 I plan to post some [notes for the seminar here](https://gmcninch.math.tufts.edu/proof-sketches/posts).
