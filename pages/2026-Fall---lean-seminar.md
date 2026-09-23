@@ -16,13 +16,13 @@ The first meeting will be 2026-09-15.
 
 # Weekly info
 
-| Week | meeting date | slides  | follow-up remarks |
-|------:|:-:|:------:|:---------|
-|   1   | 2026-09-15 |  [slides](/assets/2026-fa--lean-seminar/week1--seminar-kickoff.pdf)  |    [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-15-lean-seminar-week-1/)  |
-|   2   | 2026-09-22 | | | 
+| Week | meeting date |                               slides                               | follow-up remarks                                                                              |
+|-----:|:------------:|:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------|
+|    1 |  2026-09-15  | [slides](/assets/2026-fa--lean-seminar/week1--seminar-kickoff.pdf) | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-15-lean-seminar-week-1/) |
+|    2 |  2026-09-22  |  [slides](/assets/2026-fa--lean-seminar/week2--propositions.pdf)   | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-22-lean-seminar-week-2/) |
+|    3 |  2026-09-29  |                                                                    |                                                                                                |
 
-
-The last section of the week1 slides contain some suggested reading (where you can find some exercises to try).
+The remarks should contain some suggested reading for the subsequent meeting.
 
 # References
 
