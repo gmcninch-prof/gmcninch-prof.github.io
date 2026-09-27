@@ -19,7 +19,7 @@ Schedule: meets weekly in JCC 302, Tuesday 3:00-4:00.
 
 # Weekly info
 
-| Week | meeting date |                               slides                               | follow-up remarks                                                                              |
+| Week | meeting date |                             materials                              | follow-up remarks                                                                              |
 |-----:|:------------:|:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------|
 |    1 |  2026-09-15  | [slides](/assets/2026-fa--lean-seminar/week1--seminar-kickoff.pdf) | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-15-lean-seminar-week-1/) |
 |    2 |  2026-09-22  |  [slides](/assets/2026-fa--lean-seminar/week2--propositions.pdf)   | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-22-lean-seminar-week-2/) |
