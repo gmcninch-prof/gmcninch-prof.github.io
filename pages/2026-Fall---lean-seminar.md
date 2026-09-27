@@ -14,6 +14,11 @@ Schedule: meets weekly in JCC 302, Tuesday 3:00-4:00 (changed from 3:30 - 4:20).
 
 The first meeting will be 2026-09-15.  
 
+# seminar git repository
+
+[https://github.com/gmcninch-prof/tufts-lean-seminar/](https://github.com/gmcninch-prof/tufts-lean-seminar/)
+
+
 # Weekly info
 
 | Week | meeting date |                               slides                               | follow-up remarks                                                                              |
