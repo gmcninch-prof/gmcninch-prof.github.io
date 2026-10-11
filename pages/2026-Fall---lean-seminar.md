@@ -19,13 +19,13 @@ Schedule: meets weekly in JCC 302, Tuesday 3:00-4:00.
 
 # Weekly info
 
-| Week | meeting date |                 topic |                                                          materials | follow-up remarks                                                                              |
-|-----:|-------------:|----------------------:|-------------------------------------------------------------------:|------------------------------------------------------------------------------------------------|
-|    1 |   2026-09-15 |                       | [slides](/assets/2026-fa--lean-seminar/week1--seminar-kickoff.pdf) | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-15-lean-seminar-week-1/) |
-|    2 |   2026-09-22 |                       |    [slides](/assets/2026-fa--lean-seminar/week2--propositions.pdf) | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-22-lean-seminar-week-2/) |
-|    3 |   2026-09-29 |  logic and predicates |                                                     see the [repo] |                                                                                                |
-|    4 |   2026-10-06 | using sets in mathlib |                                                     see the [repo] |
-|    5 |   2026-10-13 |   typeclasses in lean |                                       see the [repo] for materials |
+| Week | meeting date | topic                 | materials                                                          | follow-up remarks                                                                              |
+|-----:|:-------------|:----------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|
+|    1 | 2026-09-15   |                       | [slides](/assets/2026-fa--lean-seminar/week1--seminar-kickoff.pdf) | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-15-lean-seminar-week-1/) |
+|    2 | 2026-09-22   |                       | [slides](/assets/2026-fa--lean-seminar/week2--propositions.pdf)    | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-22-lean-seminar-week-2/) |
+|    3 | 2026-09-29   | logic and predicates  | see the [repo]                                                     |                                                                                                |
+|    4 | 2026-10-06   | using sets in mathlib | see the [repo]                                                     |
+|    5 | 2026-10-13   | typeclasses in lean   | see the [repo] for materials                                       |
 
 
 [repo]: https://github.com/gmcninch-prof/tufts-lean-seminar/
