@@ -25,7 +25,7 @@ Schedule: meets weekly in JCC 302, Tuesday 3:00-4:00.
 |    2 | 2026-09-22   |                       | [slides](/assets/2026-fa--lean-seminar/week2--propositions.pdf)    | [remarks](https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-22-lean-seminar-week-2/) |
 |    3 | 2026-09-29   | logic and predicates  | see the [repo]                                                     |                                                                                                |
 |    4 | 2026-10-06   | using sets in mathlib | see the [repo]                                                     |
-|    5 | 2026-10-13   | typeclasses in lean   | see the [repo] for materials                                       |
+|    5 | 2026-10-13   | typeclasses in lean   | see the [repo]                                                     |
 
 
 [repo]: https://github.com/gmcninch-prof/tufts-lean-seminar/
