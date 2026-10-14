@@ -21,11 +21,11 @@ Schedule: meets weekly in JCC 302, Tuesday 3:00-4:00.
 
 | Week | meeting date | topic                 | materials         | follow-up remarks   |
 |:----:|:-------------|:----------------------|:------------------|:--------------------|
-|    1 | 2026-09-15   |                       | [slides][slides1] | [remarks][remarks1] |
-|    2 | 2026-09-22   |                       | [slides][slides2] | [remarks][remarks2] |
-|    3 | 2026-09-29   | logic and predicates  | see the [repo]    |                     |
-|    4 | 2026-10-06   | using sets in mathlib | see the [repo]    |
-|    5 | 2026-10-13   | typeclasses in lean   | see the [repo]    |
+|  1   | 2026-09-15   |                       | [slides][slides1] | [remarks][remarks1] |
+|  2   | 2026-09-22   |                       | [slides][slides2] | [remarks][remarks2] |
+|  3   | 2026-09-29   | logic and predicates  | see the [repo]    |                     |
+|  4   | 2026-10-06   | using sets in mathlib | see the [repo]    |                     |
+|  5   | 2026-10-13   | typeclasses in lean   | see the [repo]    |                     |
 
 [remarks1]: https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-15-lean-seminar-week-1/
 [remarks2]: https://gmcninch.math.tufts.edu/proof-sketches/posts/2026-9-22-lean-seminar-week-2/
